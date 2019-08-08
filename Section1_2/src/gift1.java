@@ -4,7 +4,6 @@ LANG: JAVA
 TASK: gift1
 */
 
-package Section1_2;
 
 import java.util.*;
 import java.io.*;

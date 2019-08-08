@@ -3,7 +3,6 @@ ID: goku7171
 LANG: JAVA
 TASK: ride
 */
-package Section1_2;
 
 import java.util.*;
 import java.io.*;
